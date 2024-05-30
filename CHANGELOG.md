@@ -1,5 +1,16 @@
 # Changelog
 
+## [2024.5.27](https://github.com/jdx/mise/compare/v2024.5.26..v2024.5.27) - 2024-05-30
+
+### 🧪 Testing
+
+- added reset() to more tests by [@jdx](https://github.com/jdx) in [1c76011](https://github.com/jdx/mise/commit/1c760112eef92eb51ada4ab00e45568adcf62b97)
+- added reset() to more tests by [@jdx](https://github.com/jdx) in [402c5ce](https://github.com/jdx/mise/commit/402c5cee97ebdbeb42fc32d055f73794d4dfdf12)
+
+### 🔍 Other Changes
+
+- dont clean cache on win by [@jdx](https://github.com/jdx) in [ede6528](https://github.com/jdx/mise/commit/ede6528f5fe5e5beeabf0a007997f3abc188faa5)
+
 ## [2024.5.26](https://github.com/jdx/mise/compare/v2024.5.25..v2024.5.26) - 2024-05-30
 
 ### 🐛 Bug Fixes
